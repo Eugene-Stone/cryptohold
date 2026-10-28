@@ -1,7 +1,7 @@
 # React Crypto Dashboard
 
 Небольшой дашборд на React + TypeScript для управления портфелем криптовалют.
-### Demo - https://eugene-stone.github.io/react-crypto
+### Demo - https://eugene-stone.github.io/cryptohold
 
 Приложение использует локальные мок-данные, которые обслуживаются `json-server`, и включает:
 - список доступных криптовалют,
